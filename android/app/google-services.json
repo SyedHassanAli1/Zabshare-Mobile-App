@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757277888595",
+    "project_id": "zabshare-65702",
+    "storage_bucket": "zabshare-65702.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757277888595:android:6e394194fb6b068229b6a6",
+        "android_client_info": {
+          "package_name": "com.zabapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757277888595-ke8c627iiqvr9ifbh9dcrs27em2iqs8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4_KX1FxnCdkfyA7plEjYfui-V_cOuCyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757277888595-ke8c627iiqvr9ifbh9dcrs27em2iqs8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

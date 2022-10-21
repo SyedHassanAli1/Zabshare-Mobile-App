@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">757277888595-ke8c627iiqvr9ifbh9dcrs27em2iqs8k.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">757277888595</string>
+    <string name="google_api_key" translatable="false">AIzaSyC4_KX1FxnCdkfyA7plEjYfui-V_cOuCyM</string>
+    <string name="google_app_id" translatable="false">1:757277888595:android:6e394194fb6b068229b6a6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC4_KX1FxnCdkfyA7plEjYfui-V_cOuCyM</string>
+    <string name="google_storage_bucket" translatable="false">zabshare-65702.appspot.com</string>
+    <string name="project_id" translatable="false">zabshare-65702</string>
+</resources>

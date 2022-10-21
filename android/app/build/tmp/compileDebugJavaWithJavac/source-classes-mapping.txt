@@ -1,0 +1,14 @@
+com/zabapp/ReactNativeFlipper.java
+ com.zabapp.ReactNativeFlipper
+ com.zabapp.ReactNativeFlipper$1
+ com.zabapp.ReactNativeFlipper$2
+ com.zabapp.ReactNativeFlipper$2$1
+com/zabapp/BuildConfig.java
+ com.zabapp.BuildConfig
+com/zabapp/MainActivity.java
+ com.zabapp.MainActivity
+com/zabapp/MainApplication.java
+ com.zabapp.MainApplication
+ com.zabapp.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
